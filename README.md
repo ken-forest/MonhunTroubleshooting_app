@@ -49,10 +49,10 @@ https://docs.google.com/spreadsheets/d/1F2y_ijQk-2CwD3bgMGNudgCRUsU6LO5o77UQk2_7
 
 # 開発環境
 
-・フロントエンド：HTML,CSS/javascript
-・バックエンド:Ruby(ver 2.6.5)/RubyOnRails(ver 6.0.0)
-・インフラ:AWS(S3)/MySQL
-・テスト:RSpec
-・テキストエディタ:Visual Studio Code
+・フロントエンド：HTML,CSS/javascript<br>
+・バックエンド:Ruby(ver 2.6.5)/RubyOnRails(ver 6.0.0)<br>
+・インフラ:AWS(S3)/MySQL<br>
+・テスト:RSpec<br>
+・テキストエディタ:Visual Studio Code<br>
 
 
